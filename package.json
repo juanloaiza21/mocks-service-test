@@ -1,0 +1,27 @@
+{
+  "name": "mocks-service-test",
+  "version": "1.0.0",
+  "description": "mocks service test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanloaiza21/mocks-service-test.git"
+  },
+  "keywords": [
+    "mocks",
+    "test",
+    "service"
+  ],
+  "author": "Juan David Loaiza Reyes <juan400reyesloaiza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanloaiza21/mocks-service-test/issues"
+  },
+  "homepage": "https://github.com/juanloaiza21/mocks-service-test#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
