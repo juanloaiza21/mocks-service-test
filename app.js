@@ -8,6 +8,6 @@ require('dotenv').config()
 let port  =  process.env.PORT || 3001
 server.use(middlewares)
 server.use(router)
-server.listen(3000, () => {
+server.listen(port, () => {
   console.log(`Mock Services runnig  port ${port}`)
 })
