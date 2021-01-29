@@ -1,1 +1,49 @@
-{}
+{
+    {
+        "users": [
+          {
+            "id": 1,
+            "name": "Jorge Ivan",
+            "lastName": "Reyes Valencia",
+            "username": "jorge",
+            "password": "12345"
+          },
+          {
+            "id": 2,
+            "name": "Juan David",
+            "lastName": "Loiza Reyes",
+            "username": "juanda",
+            "password": "12345"
+          },
+          {
+            "name": "Victor Alfredo",
+            "lastName": "Reyes Valencia",
+            "username": "victor",
+            "password": "12347",
+            "id": 3
+          }
+        ],
+        "items": [
+          {
+            "name": "Banano",
+            "specs": "Dos ruedas",
+            "price": "$1000000",
+            "id": 1
+          },
+          {
+            "name": "Cama",
+            "specs": "4 patas",
+            "price": "$1200000",
+            "id": 2
+          }
+        ],
+        "pets": [
+          {
+            "name": "rodolfo",
+            "kind": "chihuahua",
+            "age": "9 años",
+            "id": 2
+          }
+        ]
+      }
+}
