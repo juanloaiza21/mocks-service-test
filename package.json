@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/juanloaiza21/mocks-service-test#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "json-server": "^0.16.3"
   },
   "devDependencies": {
