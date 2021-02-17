@@ -25,7 +25,11 @@
   "homepage": "https://github.com/juanloaiza21/mocks-service-test#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "json-server": "^0.16.3"
+    "express-mysql-session": "^2.1.5",
+    "express-session": "^1.17.1",
+    "handlebars": "^4.7.6",
+    "json-server": "^0.16.3",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
