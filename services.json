@@ -50,35 +50,40 @@
             "Empresa": "Davivienda S.A.",
             "Factura": 89456783,
             "Monto": 1000000,
-            "Celular": 3003366204
+            "Celular": 3003366204,
+            "Vencimiento": "27/03/21"
           },
           {
             "Nit": 860034314,
             "Empresa": "Bancolombia S.A.",
             "Factura": 89456784,
             "Monto": 3000000,
-            "Celular": 3003366205
+            "Celular": 3003366205,
+            "Vencimiento": "28/03/21"
           },
           {
             "Nit": 860034315,
             "Empresa": "CompuHiperMegaRed S.A.",
             "Factura": 89456785,
             "Monto": 4000000,
-            "Celular": 3003366206
+            "Celular": 3003366206,
+            "Vencimiento": "29/03/21"
           },
           {
             "Nit": 860034316,
             "Empresa": "Produciones Hay Caramba",
             "Factura": 89456786,
             "Monto": 20000000,
-            "Celular": 3003366207
+            "Celular": 3003366207,
+            "Vencimiento": "30/03/21"
           },
           {
             "Nit": 860034317,
             "Empresa": "Mr Roboto",
             "Factura": 89456787,
             "Monto": 1526000,
-            "Celular": 3003366204
+            "Celular": 3003366204,
+            "Vencimiento": "31/03/21"
           }
         ]
 }
